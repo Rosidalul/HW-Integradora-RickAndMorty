@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+.container {
+    display: flex;
+  
+    align-items: center;
+    padding-top: 5px;
+    margin-left: 5%;
+    border-radius: 5px;
+}
+
+.containerInput {
+   display: flex;
+   padding-right: 30px;
+}
+
+.input {
+border-radius: 10px 0 0 10px;
+border: greenyellow;
+}
+
+.btn {
+ border-radius: 0 10px 10px 0;
+ width: 50px;
+ height: 30px;
+ background-color: rgb(142, 255, 67);
+ border: greenyellow;
+}
